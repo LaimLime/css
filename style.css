@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+}
+.square {
+    background-color: cornflowerblue;
+    justify-content: center;
+    margin: 5px;
+    float: left;
+    align-items: center;
+    height: 25px;
+    width: 24%;
+}
+.button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.buttonDiv  {
+    align-items: center;
+    align-content: center;
+
+}
